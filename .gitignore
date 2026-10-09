@@ -1,0 +1,5 @@
+podklady/
+.DS_Store
+*.py
+*.src.*
+src.html
